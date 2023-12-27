@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Kamera Stream</string>
+    <string name="camera_permission_prompt">Die App benötigt Zugriff auf die Kamera. Bitte erlaube die Berechtigung.</string>
+    <string name="request_permission_btn">Berechtigung Anfragen</string>
+    <string name="camera_access_required">Die App benötigt Zugriff auf die Kamera.</string>
+</resources>
