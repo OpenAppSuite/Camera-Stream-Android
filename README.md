@@ -1,4 +1,3 @@
 # Camera-Stream-Android
-Simple Android 12+ application that just displays the camera output in fullscreen. This is usefull, if you want to use your phone as a webcam in combination with a tool such as Scrcpy to mirror your screen to your PC.
-
+Simple Android 12+ application that just displays the camera output in fullscreen.
 You can swipe up or down to switch between front and back camera.
